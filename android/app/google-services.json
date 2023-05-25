@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "512881681027",
+    "project_id": "cameraexercicio-f3597",
+    "storage_bucket": "cameraexercicio-f3597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512881681027:android:99c7ae3fb132f27f8031b6",
+        "android_client_info": {
+          "package_name": "br.pro.mateus.camera_exercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512881681027-4p7p06ekno2gjjag8uhp2b0enii10vot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADweyfr4CGzWH9NULwpSmingQZxlFx_5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512881681027-4p7p06ekno2gjjag8uhp2b0enii10vot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "512881681027-96q1napvvao0ebq2qkvcig25jkomm445.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.pro.mateus.cameraExercicio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
